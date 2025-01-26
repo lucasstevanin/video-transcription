@@ -44,7 +44,7 @@ Crie uma pasta chamada "ffmpeg" no diretório principal e baixe o arquivo abaixo
 
 Após todos os passos, acredito que ao executar o comando:
 ```bash
-  python transcription.exe
+  python transcription.py
 ```
 Seu programa irá rodar tranquilamente.
 
